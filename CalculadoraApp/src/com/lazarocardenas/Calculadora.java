@@ -10,6 +10,5 @@ public class Calculadora {
 		 System.out.println("--- CALCULADORA DEL EQUIPO A y B ---");
 		 System.out.println("Suma: " + calc.sumar(10, 5));
 		 
-		 gsankgsfnksagjkwgenwgej
 	 }
 }
